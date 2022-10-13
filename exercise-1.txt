@@ -1,0 +1,4 @@
+I'm practicing the git~
+git is funny to learn~
+go~
+~~~
